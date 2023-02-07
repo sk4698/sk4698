@@ -29,20 +29,6 @@ Here are some ideas to get you started:
 - 🖐️ love to collaborate
 <br />
 
-# Education - Columbia University
-
-### Track:
-✔️ Major: Biomedical Engineering
-
-✔️ Minor: Computer Science
-
-✔️ Concentration: Bioinformatics and Machine Learning
-
-### Coursework:
-✔️ Python, Java, Data Structures in Java, Advanced Programming in C, Computer Science Theory, Statistical Machine Learning in Genomics, Functional Genomics, Deep Learning in Biomedical Imaging, Probability for Engineers, Biostatistics for Engineers, Discrete Mathematics, Applied Mathematics
-
-<br />
-
 # Programming Skills
 
 ### Languages
@@ -70,6 +56,20 @@ Here are some ideas to get you started:
 [![Github Profile](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)](https://github.com/sk4698)
 
 <br />
+<br />
+
+# Education - Columbia University
+
+### Track:
+✔️ Major: Biomedical Engineering
+
+✔️ Minor: Computer Science
+
+✔️ Concentration: Bioinformatics and Machine Learning
+
+### Coursework:
+✔️ Python, Java, Data Structures in Java, Advanced Programming in C, Computer Science Theory, Statistical Machine Learning in Genomics, Functional Genomics, Deep Learning in Biomedical Imaging, Probability for Engineers, Biostatistics for Engineers, Discrete Mathematics, Applied Mathematics
+
 <br />
 
 ---
