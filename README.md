@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👩‍🎓 senior at Columbia University
 - 🔍 student researcher
 - 🐍 course assistant for Python Programming
-- 💥 curious about emerging technologies
+- 💥 curious about innovations in tech
 - 🖐️ love to collaborate
 <br />
 
