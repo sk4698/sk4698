@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # I am an aspiring software engineer
 
-- 👩‍🎓 senior at Columbia University
+- 👩‍🎓 master's student at Columbia University
 - 🔍 student researcher
 - 🐍 course assistant for Python Programming
 - 💥 curious about innovations in tech
@@ -59,15 +59,21 @@ Here are some ideas to get you started:
 
 # Education - Columbia University
 
-### Track:
+### Master of Science:
+✔️ Major: Computer Science
+
+**Coursework:**
+Artificial Intelligence, Machine Learning, Introduction to Databases, Natural Language Processing
+
+### Bachelor of Science:
 ✔️ Major: Biomedical Engineering
 
 ✔️ Minor: Computer Science
 
 ✔️ Concentration: Bioinformatics and Machine Learning
 
-### Coursework:
-✔️ Python, Java, Data Structures in Java, Advanced Programming in C, Computer Science Theory, Statistical Machine Learning in Genomics, Functional Genomics, Deep Learning in Biomedical Imaging, Probability for Engineers, Biostatistics for Engineers, Discrete Mathematics, Applied Mathematics
+**Coursework:**
+Python, Java, Data Structures in Java, Advanced Programming in C, Computer Science Theory, Statistical Machine Learning in Genomics, Functional Genomics, Deep Learning in Biomedical Imaging, Probability for Engineers, Biostatistics for Engineers, Discrete Mathematics, Applied Mathematics
 
 <br />
 
