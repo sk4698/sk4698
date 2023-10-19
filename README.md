@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ✔️ Major: Computer Science
 
 **Coursework:**
-Artificial Intelligence, Machine Learning, Introduction to Databases, Natural Language Processing
+Artificial Intelligence, Machine Learning, Introduction to Databases, Engineering Software-as-a-Service
 
 ### Bachelor of Science:
 ✔️ Major: Biomedical Engineering
